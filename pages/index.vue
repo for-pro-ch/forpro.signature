@@ -48,7 +48,7 @@
                 <td height="auto"
                     style="font-family:Helvetica, Arial, sans-serif; padding-top: 15px; line-height: 15px; font-size:12px; color:black;"
                 >
-                  Route de la Galaise 15B
+                  Route de la Galaise <span style="color: #ff00fc">15B - 6ème étage (nouvelle adresse)</span>
                   <br>1228 Plan-les-Ouates
                 </td>
               </tr>
@@ -81,15 +81,16 @@
                       cellspacing="0"
                       height="auto"
                   >
-                      <img alt="image recrutement"
-                           width="150"
-                           style="width: 150px; margin-top: 15px"
-                           src="https://for-pro.ch/ForPro-recrute.png" >
                       <a
-                              style="display: block;margin-top: 7px;width: 150px;text-align: center; color: #1754ff;"
-                              target="_blank"
-                              href="https://for-pro.ch/recrutement/"
-                      >for-pro.ch/recrutement</a>
+                          style="margin-top: 7px;"
+                          target="_blank"
+                          href="https://for-pro.ch/"
+                      >
+                          <img alt="image recrutement"
+                               width="150"
+                               style="width: 150px; margin-top: 15px"
+                               src="https://for-pro-ch.github.io/forpro.signature/url.jpg">
+                      </a>
                   </td>
               </tr>
               </tbody>
