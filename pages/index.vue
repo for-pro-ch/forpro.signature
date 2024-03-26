@@ -48,7 +48,7 @@
                 <td height="auto"
                     style="font-family:Helvetica, Arial, sans-serif; padding-top: 15px; line-height: 15px; font-size:12px; color:black;"
                 >
-                  Route de la Galaise <span style="color: #ff00fc">15B - 6ème étage (nouvelle adresse)</span>
+                  Route de la Galaise 15B - 6ème étage
                   <br>1228 Plan-les-Ouates
                 </td>
               </tr>
